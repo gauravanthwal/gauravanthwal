@@ -1,6 +1,5 @@
-- 👋 Hi, I’m gaurav anthwal
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...mern stack web Development
+- 👋 Hi, I’m Gaurav Anthwal
+- 👀 I’m interested in ...web development, and Mobile App developent with reactjs and react native
 - 💞️ I’m looking to collaborate on ...
 - 📫 gauravanthwal7409@gmail.com
 
